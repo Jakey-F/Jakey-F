@@ -9,7 +9,7 @@
 **💙 Socials**\
 <img alt="Discord" src="https://img.shields.io/badge/Jakey-0673%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <a href="https://t.me/JakeyF"><img alt="Telegram" src="https://img.shields.io/badge/@JakeyF-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-**⚙ Work With**\
+**⚙ Working With**\
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 
 **📖 Learning**\
