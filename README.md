@@ -1,4 +1,4 @@
-I occasionally do stuff. Privately, mostly.
+I occasionally do stuff. Privately, mostly. Usually in either JavaScript/NodeJS/TypeScript or Lua.
 
 Feel free to reach out if you'd like to, always up to talk, or hear your ideas.
 
