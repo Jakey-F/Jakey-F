@@ -1,4 +1,5 @@
 I occasionally do stuff. Privately, mostly.
+
 Feel free to reach out if you'd like to, always up to talk, or hear your ideas.
 
 **💙 Socials**\
